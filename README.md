@@ -1,3 +1,12 @@
+
+> [!IMPORTANT]
+> ### As stated in the **about** section, this is a personal fork of **[Izheil's Quantum Nox](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme)** project to work in conjunction with [black7375' Lepton (Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix)
+
+> [!CAUTION]
+> ### I don't claim **any** part of either of those projects nor do I take any responsability in case it doesn't work for you!
+
+## :point_down: following is the original README from **[Izheil's Quantum Nox](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme)** project.
+
 ![Quantum Nox Logo](https://i.imgur.com/F7qziom.png)
 
 Reason of the repo being archived can be found [here](https://gist.github.com/Izheil/8df68cf71a5096f15d07fdde93cc447c).
